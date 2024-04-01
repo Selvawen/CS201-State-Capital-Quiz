@@ -1,5 +1,5 @@
 # CS201-DSA1
-State and Capital Quiz Program
+
 This Java program is a simple quiz game that tests your knowledge of U.S. state capitals. It allows you to enter the name of a state, and it will tell you the capital of that state.
 
 How It Works
