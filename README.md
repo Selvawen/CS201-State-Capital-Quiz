@@ -28,6 +28,9 @@ The StateCapitalsQuiz program is a console-based application that:
 ## Requirements
 - Java Development Kit (JDK) version 8 or above.
 
+## Demo
+![states](https://github.com/Selvawen/CS201-State-Capital-Quiz/assets/111338548/a87b0bd8-032f-4991-8002-b612cf271f50)
+
 ## Setup 
 1. Clone the repository to your local machine:
 
