@@ -1,13 +1,13 @@
 # State Capitals Quiz
-This repository contains a simple Java program named StateCapitalsQuiz that quizzes the user on the capitals of U.S. states.
+This is a simple State Capitals Quiz that quizzes the user on the capitals of U.S. states.
 
 ## Table of Contents
-[Description](#Description)
-[Features](#Features)
-[Requirements](#Requirements)
-[Setup](#Setup)
-[Usage](#Usage)
-[License](#License)
+- [Description](#Description)
+- [Features](#Features)
+- [Requirements](#Requirements)
+- [Setup](#Setup)
+- [Usage](#Usage)
+- [License](#License)
 
 ## Description
 
