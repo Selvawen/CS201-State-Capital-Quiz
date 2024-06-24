@@ -5,6 +5,7 @@ This is a simple State Capitals Quiz that quizzes the user on the capitals of U.
 - [Description](#Description)
 - [Features](#Features)
 - [Requirements](#Requirements)
+- [Demo](#Demo)
 - [Setup](#Setup)
 - [Usage](#Usage)
 - [License](#License)
